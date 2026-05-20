@@ -1,0 +1,7 @@
+system/system/app/org.mozilla.fennec_fdroid/org.mozilla.fennec_fdroid.apk.gz.zst
+system/system/app/hideme.android.vpn.noPlayStore-Stub/hideme.android.vpn.noPlayStore-Stub.apk.zst
+system/system/app/org.holochain.androidserviceruntime.app-Stub/org.holochain.androidserviceruntime.app-Stub.apk.zst
+system/system/app/org.mozilla.fennec_fdroid-Stub/org.mozilla.fennec_fdroid-Stub.apk.zst
+system/system/app/com.volla.messages-Stub/com.volla.messages-Stub.apk.zst
+system/system/priv-app/com.google.android.gms/com.google.android.gms.apk.zst
+product/app/webview/webview.apk.zst
